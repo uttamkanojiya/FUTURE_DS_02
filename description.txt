@@ -1,4 +1,4 @@
-I have this dataset for data analysis: E-commerce Orders Dataset (Kaggle)
+I have this dataset for data analysis: Telco Customer Churn Dataset (Kaggle)
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 For data cleaning i have used the python(pandas).
